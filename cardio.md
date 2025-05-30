@@ -27,3 +27,14 @@ En un gimnasio, el cardio (o ejercicio cardiovascular) se refiere a cualquier ac
 - Tipo de ejercicio: Puede incluir correr, caminar rápido, nadar, andar en bicicleta, saltar la cuerda, bailar, entre otros.
 
 - Intensidad: Mantén una intensidad moderada (puedes hablar pero no cantar mientras lo haces) o alta según tu condición física.
+
+*Instrucciones Generales:*
+
+- Duración recomendada: 20 a 60 minutos por sesión, dependiendo de tu nivel físico.
+
+- Frecuencia: 3 a 5 veces por semana.
+
+- Tipo de ejercicio: Puede incluir correr, caminar rápido, nadar, andar en bicicleta, saltar la cuerda, bailar, entre otros.
+
+- Intensidad: Mantén una intensidad moderada (puedes hablar pero no cantar mientras lo haces) o alta según tu condición física.
+
