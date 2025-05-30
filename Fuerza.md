@@ -32,3 +32,31 @@ El entrenamiento de fuerza es una modalidad de ejercicio físico enfocada en aum
 - Mantén una técnica correcta en cada movimiento para evitar lesiones.
 
 - Estira los músculos trabajados al terminar.
+
+*Consejos:*
+
+- Comienza con peso ligero y enfócate en la técnica.
+
+- Aumenta gradualmente la resistencia a medida que progresas.
+
+- Respira correctamente: inhala al bajar, exhala al subir.
+
+- Incluye ejercicios para todos los grupos musculares (piernas, espalda, pecho, brazos, core).
+
+- Registra tu progreso para motivarte.
+
+ *Precauciones:*
+
+- No sobrecargues los músculos sin preparación.
+
+- Evita ejercicios complejos sin la supervisión adecuada.
+
+- Detente si sientes dolor agudo (no confundir con el esfuerzo normal).
+
+- Hidrátate antes, durante y después del entrenamiento.
+
+- Consulta a un profesional si tienes problemas articulares, cardíacos o condiciones especiales.
+
+ #######################################################################
+    DESARROLLADO POR STIVEN MARTINEZ VILLAMIZAR        CC 1096064595       
+ #######################################################################
