@@ -57,6 +57,4 @@ El entrenamiento de fuerza es una modalidad de ejercicio físico enfocada en aum
 
 - Consulta a un profesional si tienes problemas articulares, cardíacos o condiciones especiales.
 
- #######################################################################
-    DESARROLLADO POR STIVEN MARTINEZ VILLAMIZAR        CC 1096064595       
- #######################################################################
+ 
