@@ -153,5 +153,6 @@ Bienvenido a nuestra guía de ejercicios físicos, donde compartimos descripcion
 ¡Esperamos que encuentres útiles estos ejercicios y te inspires para mantenerte activo y saludable!
 ```
 
-################################################################################################################ #DESARROLLADO POR STIVEN MARTINEZ VILLAMIZAR                      CC1096064595                                  #
- ###############################################################################################################
+#######################################################################
+    DESARROLLADO POR STIVEN MARTINEZ VILLAMIZAR        CC 1096064595       
+ #######################################################################
