@@ -42,5 +42,6 @@ Pilates puede realizarse con equipos específicos como el reformer, o simplement
 
 - Finaliza con estiramientos suaves y respiración profunda.
 
-- Duración sugerida: 30–60 minutos, 2 a 4 veces por semana.
+- Duración sugerida: 30–60 minutos, 2 a 4 veces por semana
 
+g
