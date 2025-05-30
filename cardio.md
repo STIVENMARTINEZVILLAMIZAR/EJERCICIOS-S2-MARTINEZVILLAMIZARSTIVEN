@@ -38,3 +38,34 @@ En un gimnasio, el cardio (o ejercicio cardiovascular) se refiere a cualquier ac
 
 - Intensidad: Mantén una intensidad moderada (puedes hablar pero no cantar mientras lo haces) o alta según tu condición física.
 
+
+ *Consejos:*
+
+- Realiza siempre un calentamiento previo de 5 a 10 minutos.
+
+- Mantén una buena hidratación antes, durante y después del ejercicio.
+
+- Usa ropa y calzado adecuados para evitar lesiones.
+
+- Alterna distintos tipos de cardio para mantener la motivación y trabajar distintos músculos.
+
+- Si eres principiante, comienza con sesiones cortas de baja intensidad y ve aumentando progresivamente.
+
+*Precauciones:*
+
+- Consulta con un médico si tienes alguna condición médica antes de comenzar una rutina de cardio.
+
+- Evita sobreentrenarte: el descanso también es parte del progreso.
+
+- Si sientes mareos, dolor en el pecho o dificultad para respirar, detén el ejercicio inmediatamente.
+
+- No hagas cardio en ambientes muy calurosos o sin ventilación adecuada.
+
+- Presta atención a la postura y técnica para prevenir lesiones, especialmente en ejercicios de impacto como correr o saltar.
+
+
+
+
+ #######################################################################
+    DESARROLLADO POR STIVEN MARTINEZ VILLAMIZAR        CC 1096064595       
+ #######################################################################
