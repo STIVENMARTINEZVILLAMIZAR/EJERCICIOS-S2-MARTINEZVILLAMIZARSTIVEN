@@ -43,3 +43,31 @@ El yoga no es solo ejercicio físico; es una filosofía de vida. Existen muchos 
 
 - Duración sugerida: 20–60 minutos, de 2 a 5 veces por semana.
 
+*CONSEJOS:*
+
+- Practica con ropa cómoda y sin calzado.
+
+- No te compares con otros; respeta tu propio ritmo.
+
+- Concéntrate en tu respiración durante toda la práctica.
+
+- Usa apoyos como bloques o cinturones si eres principiante.
+
+- Sé constante: los beneficios se sienten más con el tiempo.
+
+*PRECAUCIONES:*
+
+- Evita posturas avanzadas sin experiencia o supervisión.
+
+- No practiques con el estómago lleno.
+
+- Consulta con un médico si tienes lesiones, hipertensión o estás embarazada.
+
+- Escucha tu cuerpo: el yoga no debe doler.
+
+- Si sientes mareo, dolor o incomodidad, detén la práctica.
+
+
+ #######################################################################
+    DESARROLLADO POR STIVEN MARTINEZ VILLAMIZAR        CC 1096064595       
+ #######################################################################
