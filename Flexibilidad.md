@@ -28,3 +28,30 @@ La flexibilidad permite realizar movimientos como estirarse, agacharse o girar s
 
 - Sé constante: Practica estiramientos al menos 3-5 veces por semana.
 
+*CONSEJOS:*
+
+- Estira ambos lados del cuerpo por igual.
+
+-Integra sesiones de yoga o pilates en tu rutina semanal.
+
+- Escucha tu cuerpo: el estiramiento debe sentirse pero no doler.
+
+- Estira después del ejercicio cuando los músculos estén calientes.
+
+- Mejora progresivamente: no fuerces el rango de movimiento.
+
+*PRECAUCIONES:*
+
+- No estires músculos fríos intensamente.
+
+- Evita estirarte si tienes lesiones sin consultar con un profesional.
+
+- No excedas tus límites; el dolor intenso es señal de advertencia.
+
+- Consulta a un fisioterapeuta si tienes problemas articulares o musculares.
+
+
+
+#######################################################################
+    DESARROLLADO POR STIVEN MARTINEZ VILLAMIZAR        CC 1096064595       
+ ######################################################################
