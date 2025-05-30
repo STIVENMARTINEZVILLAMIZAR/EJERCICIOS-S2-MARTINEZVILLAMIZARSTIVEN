@@ -1,3 +1,4 @@
+
 *Entrenamiento Funcional: Movimiento Inteligente para el Cuerpo Real*
 
 *DESCRIPCIÓN:*
@@ -64,4 +65,4 @@ A diferencia del entrenamiento tradicional que trabaja músculos de forma aislad
 
 #######################################################################
     DESARROLLADO POR STIVEN MARTINEZ VILLAMIZAR        CC 1096064595       
- #######################################################################
+ ##############################################################
