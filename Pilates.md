@@ -44,4 +44,28 @@ Pilates puede realizarse con equipos específicos como el reformer, o simplement
 
 - Duración sugerida: 30–60 minutos, 2 a 4 veces por semana
 
-g
+CONSEJOS:
+Mantén el abdomen activado durante toda la práctica.
+
+Prioriza la calidad del movimiento sobre la cantidad.
+
+Usa ropa cómoda que te permita moverte libremente.
+
+Si eres principiante, sigue clases guiadas o videos confiables.
+
+Evita retener la respiración; coordina cada movimiento con la exhalación o inhalación.
+
+PRECAUCIONES:
+Evita movimientos avanzados sin supervisión si estás empezando.
+
+Consulta a un médico si tienes lesiones de columna o condiciones médicas.
+
+No fuerces la flexibilidad ni el rango de movimiento.
+
+Si estás embarazada, busca clases específicas de Pilates prenatal.
+
+Escucha tu cuerpo: si algo duele, detente y ajusta.
+
+#######################################################################
+    DESARROLLADO POR STIVEN MARTINEZ VILLAMIZAR        CC 1096064595       
+ #######################################################################
