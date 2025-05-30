@@ -18,3 +18,17 @@ El entrenamiento de fuerza es una modalidad de ejercicio físico enfocada en aum
 - 💓 Favorece la salud cardiovascular cuando se combina con cardio.
 
 - 🧠 Aumenta la autoestima y reduce el estrés.
+
+*Instrucciones:*
+
+- Calienta 5 a 10 minutos antes de empezar (puede ser con cardio ligero).
+
+- Elige un ejercicio de fuerza (por ejemplo: sentadillas, flexiones, peso muerto).
+
+- Realiza 3 a 4 series de 8 a 12 repeticiones cada una.
+
+- Descansa entre 30 segundos y 1 minuto entre series.
+
+- Mantén una técnica correcta en cada movimiento para evitar lesiones.
+
+- Estira los músculos trabajados al terminar.
