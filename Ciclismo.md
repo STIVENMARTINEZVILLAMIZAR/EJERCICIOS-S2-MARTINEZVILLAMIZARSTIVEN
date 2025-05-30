@@ -17,3 +17,21 @@ BENEFICIOS DEL CICLISMO:
 
 🦵 Mejora la coordinación, equilibrio y movilidad articular
 
+
+INSTRUCCIONES PARA UNA SESIÓN BÁSICA DE CICLISMO:
+
+Calienta antes de iniciar (movilidad articular y pedaleo suave – 5 a 10 min).
+
+Asegúrate de que la bicicleta esté ajustada a tu altura.
+
+Usa ropa cómoda y transpirable, preferiblemente deportiva.
+
+Comienza pedaleando a ritmo moderado y mantén una buena postura.
+
+Incrementa la intensidad gradualmente según tu nivel.
+
+Enfría al final con pedaleo lento y estiramientos (5 a 10 min).
+
+Frecuencia recomendada: 3 a 5 veces por semana, entre 30 y 60 minutos por sesión.
+
+
