@@ -18,3 +18,23 @@ A diferencia del entrenamiento tradicional que trabaja músculos de forma aislad
 
 - ✅ Aporta variedad y dinamismo a la rutina de ejercicios
 
+*INSTRUCCIONES PARA UNA SESIÓN BÁSICA:*
+
+- Calentamiento dinámico (5–10 min): Saltos suaves, movilidad articular, trote en el lugar.
+
+- Ejercicios funcionales (20–30 min):
+
+- Sentadillas con peso corporal
+
+- Zancadas caminando
+
+- Flexiones (push-ups)
+
+- Plancha (plank)
+
+- Giros de torso con balón medicinal
+
+- Enfriamiento y estiramiento (5–10 min)
+
+- Frecuencia sugerida: 2–4 veces por semana
+
